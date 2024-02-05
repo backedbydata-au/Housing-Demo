@@ -1,0 +1,12 @@
+name: BackedByDataDemo
+title: BackedByDataDemo
+username: backedbydata
+account: backedbydata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10989173
+bundleId: 8174130
+url: https://backedbydata.shinyapps.io/BackedByDataDemo/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
